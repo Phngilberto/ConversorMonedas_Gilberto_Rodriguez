@@ -1,0 +1,1 @@
+Este proyecto permite al usuario realizar la conversión de monedas al tipo de cambio actualizado a la fecha, según las opciones propuestas en Menú. Así mismo el usuario podrá solicitar se le muestre un historial con los tipos de cambio consultados.
